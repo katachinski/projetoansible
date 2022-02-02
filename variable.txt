@@ -6,3 +6,4 @@ adicionando novo conteúdo
 removido o conteudo de versao
 
 adicionando controle de versao por tag, v1.0 e v 2.0
+inserindo informaçao da versao 2.0
